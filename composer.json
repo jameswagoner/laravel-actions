@@ -70,7 +70,7 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "git@github.com:laravel-shift/lody.git"
         }
     ]
